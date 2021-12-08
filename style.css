@@ -66,6 +66,14 @@ transform: rotate(-20deg);
   transform-origin: top left;
 }
 
+nav {
+position: fixed;
+bottom: 40px;
+left: 0;
+z-index: 100;
+}
+
+
 .content img {
   max-width: 100%;
 }
