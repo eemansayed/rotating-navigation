@@ -73,6 +73,11 @@ left: 0;
 z-index: 100;
 }
 
+nav ul {
+  list-style-type: none;
+  padding-left: 30px;
+}
+
 
 .content img {
   max-width: 100%;
